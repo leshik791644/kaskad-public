@@ -2,9 +2,9 @@
 set -o pipefail
 
 # ══════════════════════════════════════════════════════════════
-#  KASKAD PRO v2.3 — Cascading VPN / Proxy Manager
+#  KASKAD — Cascading VPN / Proxy Manager
 #  Telegram Bot · Live Ping · Monitoring · Alerts · GeoIP · System Stats
-#  Channel: https://www.youtube.com/@antenkaru
+#  
 # ══════════════════════════════════════════════════════════════
 
 KASKAD_VERSION="2.3"
